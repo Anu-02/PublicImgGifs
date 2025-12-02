@@ -1,0 +1,2 @@
+# PublicImgGifs
+GIF,IMAGES
